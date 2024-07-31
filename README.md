@@ -6,5 +6,6 @@ Diagrama Entidade Relacionamento (DER)
 
 Modelo Entidade Relacionamento (MER)
 
-![Modelo Entidade Relacionamento Livraria](https://github.com/user-attachments/assets/e8f61ab5-d40d-4495-aeaf-386ff27d83b6)
+![MER Livraria](https://github.com/user-attachments/assets/c7433fb6-2499-4e4d-96c7-48dacb6318bc)
+
 
